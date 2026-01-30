@@ -68,7 +68,7 @@ https://www.kaggle.com/datasets/grassknoted/asl-alphabet
 
 ```bash
 git clone https://github.com/Zuuru/Computer-Vision/tree/72e794f347ec799f51114da604754423c4748d09/ASL%20Handsign
-cd Hand Sign
+cd ASL Handsign
 ```
 
 ### 3️⃣ Run with Live Server
