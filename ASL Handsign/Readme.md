@@ -62,14 +62,16 @@ Each image is processed using MediaPipe Hands and stored in CSV format before be
 
 ## 🚀 How to Run
 
-### 1️⃣ Clone Repository
+### 1️⃣ Download Dataset
+https://www.kaggle.com/datasets/grassknoted/asl-alphabet
+### 2️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/Zuuru/Computer-Vision/tree/72e794f347ec799f51114da604754423c4748d09/ASL%20Handsign
 cd Hand Sign
 ```
 
-### 2️⃣ Run with Live Server
+### 3️⃣ Run with Live Server
 
 Use **VS Code Live Server** or any local web server:
 
